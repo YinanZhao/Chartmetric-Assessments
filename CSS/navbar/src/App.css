@@ -1,0 +1,25 @@
+.Navbar {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  background-color: #1d2b38;
+  flex-direction: row;
+  align-items: center; /* vertically centered */
+}
+
+.Logo {
+  margin-left: 25px;
+  max-height: 70%;
+  flex: 1;
+  object-position: left; /* align to left side */
+  object-fit: contain;
+}
+
+.SearchAndIcons {
+  color: rgba(255, 255, 255, 0.644);
+  font-size: 25px;
+}
+
+.IndividualIcon {
+  margin-right: 25px;
+}

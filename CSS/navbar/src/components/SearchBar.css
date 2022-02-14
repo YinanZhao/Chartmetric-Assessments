@@ -1,0 +1,21 @@
+.InputContainer {
+  display: inline-flex;
+  margin-right: 25px;
+  vertical-align: middle; /* to make centered vertically */
+}
+
+.IconInput {
+  background: white;
+  color: grey;
+  padding: 6px;
+  font-size: 13px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.TextInput {
+  padding: 2px;
+  border: white; /* make them seem like one element */
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
