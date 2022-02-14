@@ -1,4 +1,4 @@
-# Simple Graph of playcounts for ChartMetric
+# Simple Graph of Playcounts for ChartMetric
 
 \*Function which formats response is in src/functions/formatResponse.js. This function is than called in App.js.
 
